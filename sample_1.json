@@ -1,6 +1,6 @@
-[{"op":"TTV","library":1,"perf":1.0},
-{"op":"TTV","library":2,"perf":0.11},
-{"op":"SpMV","library":1,"perf":1.0},
-{"op":"SpMV","library":2,"perf":0.29},
-{"op":"TTM","library":1,"perf":1.0},
-{"op":"TTM","library":2,"perf":0.13}]
+[{"operation":"TTV","library":1,"perf":1.0},
+{"operation":"TTV","library":2,"perf":0.11},
+{"operation":"SpMV","library":1,"perf":1.0},
+{"operation":"SpMV","library":2,"perf":0.29},
+{"operation":"TTM","library":1,"perf":1.0},
+{"operation":"TTM","library":2,"perf":0.13}]
