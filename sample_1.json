@@ -1,0 +1,6 @@
+[{"op":"TTV","taco":1,"perf":1.0},
+{"op":"TTV","taco":2,"perf":0.11},
+{"op":"SpMV","taco":1,"perf":1.0},
+{"op":"SpMV","taco":2,"perf":0.29},
+{"op":"TTM","taco":1,"perf":1.0},
+{"op":"TTM","taco":2,"perf":0.13}]
